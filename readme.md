@@ -3,7 +3,7 @@
 
 Um menu lateral com javascript, html e css.
 
-![menu](menu.jpg)
+![menu](menu-lateral.jpg)
 
 ## Referência
 
